@@ -1,0 +1,64 @@
+Tunnel	名称
+Tunnel	断面面积
+Tunnel	长度
+
+ArcTunnel	名称
+ArcTunnel	断面面积
+ArcTunnel	长度
+
+TTunnel 矿井名称
+TTunnel 所属采(盘)区
+TTunnel	名称
+TTunnel	长度
+TTunnel	断面面积
+TTunnel	需风量
+TTunnel	通风方法
+TTunnel	通风方式
+TTunnel	通风时间
+TTunnel	一次爆破炸药消耗量
+TTunnel	引爆方式
+TTunnel	排尘风速
+TTunnel	工作人数
+TTunnel	有害成分的平均排量
+TTunnel	有害成分的允许浓度
+TTunnel	单位功率的风量指标
+TTunnel	柴油设备功率数
+TTunnel	进风端气温
+TTunnel	排风端气温
+TTunnel	热源总散热量
+TTunnel	空气定热比
+TTunnel	空气密度
+
+LocalFan 风机级别
+LocalFan 工作方式
+LocalFan 通风方式
+LocalFan 通风方法
+LocalFan 理论风量(m3/s)
+LocalFan 理论风压(Pa)
+LocalFan 工作风量(m3/s)
+LocalFan 工作风压(Pa)
+LocalFan 风机型号
+LocalFan 风量范围
+LocalFan 风压范围
+LocalFan 风压上限空间(Pa)
+
+Chimney 名称
+Chimney 长度
+Chimney 直径
+Chimney 风筒风阻
+Chimney 漏风备用系数
+Chimney 摩擦系数
+Chimney 接头数
+Chimney 弯角
+Chimney 材质
+Chimney 百米漏风率
+Chimney 百米风阻
+Chimney	漏风系数
+Chimney 入口风量(m3/s)
+Chimney	出口风量(m3/s)
+
+WindLibrary 风库级别
+WindLibrary 漏风备用系数
+WindLibrary 风机总台数
+
+WindDirection	通风类型
